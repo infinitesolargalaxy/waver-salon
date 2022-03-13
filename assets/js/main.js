@@ -98,8 +98,12 @@
 		// Lightbox gallery.
 			$window.on('load', function() {
 
-				$('#two').poptrox({
-					caption: function($a) { return $a.next('h3').text(); },
+				$('.gallery').poptrox({
+					caption: function($a) {
+						const title = $a.next().next('h3').text();
+						// const credits = $a.next('figcaption').text();
+						return `${title}`;
+					},
 					overlayColor: '#2c2c2c',
 					overlayOpacity: 0.85,
 					popupCloserText: '',

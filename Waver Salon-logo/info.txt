@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Quicksand-Regular
+font link: https://www.fontsquirrel.com/fonts/quicksand
+font author: Andrew Paglinawan
+font author site: http://andrewpaglinawan.com/
+
+
+icon designer: Andrew Lynne
+icon designer link: /andrewlynne
+        
+{"bg-gradient-0":"#30092A","bg-gradient-1":"#CB3C61","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
