@@ -1,6 +1,10 @@
 # waver-salon
 Waver Hair Salon
 
+| Desktop | Mobile |
+|---|---|
+| <img src="waver-large.PNG"> | <img src="waver-mobile.png"> |
+
 ## Banner
 https://unsplash.com/photos/sYIqGW3hufI
 
