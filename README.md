@@ -1,41 +1,18 @@
-# waver-salon
 Waver Hair Salon
+
+<a href="https://waver-salon.netlify.app/" rel="nofollow">
+    <img alt="Website" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=googlechrome&logo-color=white">
+</a>
+
+<img alt="Website Status" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fwaver-salon.netlify.app%2F">
 
 | Desktop | Mobile |
 |---|---|
-| <img src="waver-large.PNG"> | <img src="waver-mobile.png"> |
+| <img src="waver-large.PNG"> | <img src="waver-mobile.PNG"> |
 
-## Banner
-https://unsplash.com/photos/sYIqGW3hufI
+## How It's Made:
 
-## Services
+**Tech used:** <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-
-Womens:
-https://unsplash.com/photos/FkAZqQJTbXM
-
-Men:
-https://unsplash.com/photos/ClilMdu189E
-
-### Hair Cut
-
-Wash + Dry
-
-<!-- https://unsplash.com/photos/WDmvpGs2060
-
-https://unsplash.com/photos/MMz03PyCOZg -->
-
-### Hair Color
-https://unsplash.com/photos/uIyzZCdCnWc
-https://unsplash.com/photos/TETR8YLSqt4
-
-## Locations
-<!-- https://unsplash.com/photos/jsuWg7IXx1k -->
-https://unsplash.com/photos/_C-S7LqxHPw
-https://unsplash.com/photos/3nBzt3Jdeh4
-## Staff
-https://unsplash.com/photos/fI-TKWjKYls
-
-https://unsplash.com/photos/KVVjmb3IIL8
-
-<!-- https://unsplash.com/photos/HEde-a_T4E8 -->
+## Credits
+See credits.md
