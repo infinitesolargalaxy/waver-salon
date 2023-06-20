@@ -1,4 +1,6 @@
-Waver Hair Salon
+<img src='Waver Salon-logo/vector/default.svg' height='200px' style="background: #276D8E;border-radius:50%">
+
+Website for Waver Hair Salon
 
 <a href="https://waver-salon.netlify.app/" rel="nofollow">
     <img alt="Website" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=googlechrome&logo-color=white">
